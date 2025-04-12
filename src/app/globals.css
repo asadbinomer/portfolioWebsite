@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+*{
+  font-family: Outfit;
+}
+
+.bg-lightHover{
+  background-color: #fcf4ff;
+}
